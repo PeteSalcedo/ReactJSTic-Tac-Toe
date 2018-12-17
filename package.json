@@ -1,0 +1,32 @@
+{
+  "name": "reactjstic-tac-toe",
+  "version": "1.0.0",
+  "description": "A simple tic tac toe game",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteSalcedo/ReactJSTic-Tac-Toe.git"
+  },
+  "keywords": [
+    "Reaact",
+    "js",
+    "tutorial"
+  ],
+  "author": "Pete Salcedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeteSalcedo/ReactJSTic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/PeteSalcedo/ReactJSTic-Tac-Toe#readme"
+}
